@@ -8,3 +8,7 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 var myVar = "Hello, new world!";
+
+- [x] Actividad finalizada
+- [x] Actividad 2 terminada
+- [ ] Falta esta actividad
